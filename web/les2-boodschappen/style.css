@@ -22,8 +22,17 @@ h2{
 
 button{
     padding: 10px 20px;
+    margin-bottom: 5px;
     background-color: rgb(210, 210, 210);
     color: grey;
     font-size: 10px;
     border: 2px solid black;
+}
+
+.rood{
+    color: red;
+}
+
+.groen{
+    color: green;
 }
